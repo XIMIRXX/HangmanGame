@@ -1,3 +1,4 @@
+# Add hangman_art.py and hangman_words.py to the same folder
 import random
 import hangman_words
 import hangman_art
